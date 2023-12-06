@@ -1,0 +1,27 @@
+.winnersClass {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 50px 30px;
+}
+
+.search-wrapper {
+    margin-top: 15px;
+    text-align: center;
+    margin-bottom: -10px;
+}
+
+.search-input {
+    width: 66vw;
+}
+
+.search-input:focus-within {
+    box-shadow: 0 0 10px rgba(29, 20, 29, 0.5);
+}
+
+.winnersClass {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 50px 30px;
+}

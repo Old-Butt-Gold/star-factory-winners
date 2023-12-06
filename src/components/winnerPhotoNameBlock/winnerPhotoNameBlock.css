@@ -1,0 +1,27 @@
+.winner-photo-name-block {
+    width: 40%;
+    padding: 10px;
+    color: #333333;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.winner-photo-name-block .subtitle {
+    margin-top: 10px;
+    font-size: 1.2rem;
+}
+
+.winner-photo-name-block img {
+    margin: 4px;
+    height: 21.3rem;
+}
+
+@media (max-width: 800px) {
+    .winner-photo-name-block {
+        width: 90%;
+    }
+
+    .winner-photo-name-block img {
+        height: 24rem;
+    }
+}

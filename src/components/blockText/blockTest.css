@@ -1,0 +1,39 @@
+.blockText {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.blockText.white {
+    color: white;
+}
+
+.blockText.black {
+    color: black;
+}
+
+.blockText .title {
+    padding: 2rem 0;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.blockText .text {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin: 0 auto 4rem;
+    letter-spacing: 1px;
+    width: 90%;
+    color: #555555;
+}
+
+@media (min-width: 768px) {
+    .blockText .title {
+        font-size: 3rem;
+    }
+
+    .blockText .text {
+        font-size: 1.2rem;
+        color: #666666;
+    }
+}
+

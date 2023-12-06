@@ -1,0 +1,50 @@
+.intro {
+    background: url('images/intro.jpg') center no-repeat;
+    position: relative;
+    background-size: cover;
+    height: 100vh;
+}
+
+.intro:before {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.intro_block {
+    width: 80%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #29a19c;
+    text-align: center;
+}
+
+.intro_welcome {
+    font-size: 80px;
+    font-weight: bold;
+}
+
+@media (max-width: 620px) {
+    .intro_welcome {
+        font-size: 60px;
+    }
+    .intro_block {
+        width: 90%;
+    }
+}
+
+@media (max-width: 490px) {
+    .intro_welcome {
+        font-size: 50px;
+    }
+    .intro_block {
+        width: 100%;
+    }
+}

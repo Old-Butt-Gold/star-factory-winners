@@ -1,0 +1,37 @@
+.container-info {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
+    margin-bottom: 20px;
+}
+
+.container-info .component {
+    flex: 1;
+    min-width: 300px;
+    max-width: 600px;
+}
+
+.container-info .component h4 {
+    text-align: center;
+    margin-bottom: 0.6rem;
+}
+
+.component iframe {
+    width: 100%;
+}
+
+@media (max-width: 700px) {
+    .container-info {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .container-info .component {
+        min-width: 600px;
+    }
+
+    .component {
+        max-width: 100%;
+    }
+}

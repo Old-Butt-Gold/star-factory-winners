@@ -1,0 +1,32 @@
+.FooterContainer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    border-top: 2px solid #fff;
+    box-shadow: 0 -5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.FooterContent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.SocialIcons {
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.SocialIcons a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 24px;
+    transition: color 0.5s ease;
+}
+
+.SocialIcons a:hover {
+    color: #55acee;
+}

@@ -1,0 +1,26 @@
+.photo-cards-container {
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 100%;
+    margin: 0 auto -15px;
+}
+
+.photo-card {
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.5s ease-in-out;
+}
+
+.photo-card:hover {
+    transform: scale(1.09);
+}
+
+.photo-cards-container img {
+    height: 425px;
+    width: 100%;
+    margin-bottom: 20px;
+    transition: transform 0.5s ease-in-out;
+}
+
