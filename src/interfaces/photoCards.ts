@@ -3,9 +3,9 @@ export interface IPhotoCards {
 }
 
 export const IMAGES = [
-    "images/about_1.jpg",
-    "images/about_2.jpg",
-    "images/about_3.jpg",
-    "images/about_4.jpg",
-    "images/about_5.jpg", /*star/...*/
+    "/star-factory-winners/images/about_1.jpg",
+    "/star-factory-winners/images/about_2.jpg",
+    "/star-factory-winners/images/about_3.jpg",
+    "/star-factory-winners/images/about_4.jpg",
+    "/star-factory-winners/images/about_5.jpg",
 ];
