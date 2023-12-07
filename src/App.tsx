@@ -14,11 +14,11 @@ export default function App() {
             <Header/>
             <main>
                 <Routes>
-                    <Route path="star/" element={<Main />} />
-                    <Route path="star/about" element={<About />} />
-                    <Route path="star/winners" element={<Winner />} />
-                    <Route path="star/winners/:id" element={<WinnerPage />} />
-                    <Route path="star/contacts" element={<Contacts />} />
+                    <Route path="/" element={<Main />} />
+                    <Route path="/about" element={<About />} />
+                    <Route path="/winners" element={<Winner />} />
+                    <Route path="/winners/:id" element={<WinnerPage />} />
+                    <Route path="/contacts" element={<Contacts />} />
                 </Routes>
             </main>
             <Footer />

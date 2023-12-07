@@ -7,7 +7,7 @@ export default function WinnerPhotoNameBlock({ name, age, photo }: IWinnerData) 
         <div className="winner-photo-name-block">
             <Typography variant="h4">{name}</Typography>
             <Typography className="subtitle" variant="body1" color="primary">
-                Возраст: {age}
+                {t('age-info')}{age}
             </Typography>
             <img src={photo} alt={name} className="winner-photo" />
         </div>

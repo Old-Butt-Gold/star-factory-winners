@@ -1,4 +1,5 @@
 {
+  "homepage": "http://Old-Butt-Gold.github.io/star-factory-winners",
   "name": "star",
   "private": true,
   "version": "0.0.0",
@@ -6,6 +7,8 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
@@ -13,12 +16,12 @@
     "@mui/material": "^5.14.19",
     "i18next": "^23.7.8",
     "react": "^18.2.0",
+    "react-chrono": "^2.3.1",
     "react-dom": "^18.2.0",
     "react-i18next": "^13.5.0",
+    "react-icons": "^4.12.0",
     "react-router-dom": "^6.20.1",
-    "styled-components": "^6.1.1",
-    "react-chrono": "^2.3.1",
-    "react-icons": "^4.12.0"
+    "styled-components": "^6.1.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.37",
@@ -31,6 +34,7 @@
     "eslint": "^8.53.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.4",
+    "gh-pages": "^6.1.0",
     "react-chrono": "^2.3.1",
     "react-icons": "^4.12.0",
     "typescript": "^5.2.2",
