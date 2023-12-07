@@ -1,17 +1,23 @@
 import { Link, NavLink } from "react-router-dom";
 import './navbar.css';
 import { useState } from "react";
+import i18next from 'i18next'
+import {useTranslation} from "react-i18next";
 
 export default function Navbar() {
     const [menuOpen, setMenuOpen] = useState(false);
+    const { t } = useTranslation();
+    const toggleLanguage = () => {
+        i18next.changeLanguage(i18next.language === 'en' ? 'ru' : 'en');
+    };
 
     return (
         <nav>
             <div className="main">
                 <Link to={"star/"} className={"title"}>
-                    Главная
+                    {t('main.title')}
                 </Link>
-                <div className={"title"}>
+                <div onClick={toggleLanguage} className={"title"}>
                     RU/EN
                 </div>
             </div>
@@ -24,17 +30,17 @@ export default function Navbar() {
             <ul className={menuOpen ? "open" : ""}>
                 <li>
                     <NavLink to={"star/about"}>
-                        О шоу
+                        {t('main.about')}
                     </NavLink>
                 </li>
                 <li>
                     <NavLink to={"star/winners"}>
-                        Победители
+                        {t('main.winners')}
                     </NavLink>
                 </li>
                 <li>
                     <NavLink to={"star/contacts"}>
-                        Контакты
+                        {t('main.contacts')}
                     </NavLink>
                 </li>
             </ul>

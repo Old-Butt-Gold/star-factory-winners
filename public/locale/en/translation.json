@@ -1,0 +1,461 @@
+{
+  "welcome": "Welcome to the Star Factory and its winners.",
+  "main": {
+    "title": "Home",
+    "about": "About the Show",
+    "winners": "Winners",
+    "contacts": "Contacts"
+  },
+  "about": "What is this TV show about?",
+  "about-info": "\"Star Factory\" is a Russian television show launched at the end of 2002, serving as a talent show for young artists. Participants go through audition stages, receive training under the guidance of coaches, and live in a communal house. The show is oriented towards various musical genres. Weekly voting takes place, and participants with the least support exit the project. \"Star Factory\" has become the starting point for many successful musicians.",
+  "dayWinnerTitle": "Winner of the Day",
+  "authorsClass": "Development Team",
+  "footer": "2023 BSUIR. All rights reserved.",
+  "search-input": "Search...",
+  "gallery": "Gallery",
+  "maps": "Maps",
+  "age-info": "Age: ",
+  "more-info": "More",
+  "people": [
+    {
+        "name": "Andrey Krutko",
+        "photoUrl": "/star/images/andrey.jpg",
+        "githubUrl": "https://github.com/Old-Butt-Gold",
+        "githubPhoto": "https://avatars.githubusercontent.com/u/118840620?v=4"
+    },
+    {
+      "name": "Alexandra Zayats",
+      "photoUrl": "images/asya.jfif",
+      "githubUrl": "https://github.com/AleksMind",
+      "githubPhoto": "https://avatars.githubusercontent.com/u/126493685?v=4"
+    },
+    {
+      "name": "Daria Kumichova",
+      "photoUrl": "images/dasha.jfif",
+      "githubUrl": "https://github.com/Clown-is-me",
+      "githubPhoto": "https://avatars.githubusercontent.com/u/63212757?v=4"
+    },
+    {
+      "name": "Daria Kirlitza",
+      "photoUrl": "images/dysya.jfif",
+      "githubUrl": "https://github.com/luna34Sans",
+      "githubPhoto": "https://avatars.githubusercontent.com/u/126656359?v=4"
+    }
+  ],
+  "winners": [
+    {
+      "name": "Guzel Khasanova",
+      "id": 7,
+      "photo": "/star/images/hasanova_1.jpg",
+      "photoGallery": [
+        {
+          "photoGallery": "/star/images/hasanova_2.jpg"
+        },
+        {
+          "photoGallery": "/star/images/hasanova_3.jpg"
+        },
+        {
+          "photoGallery": "/star/images/hasanova_4.jpg"
+        }
+      ],
+      "youtube": "https://www.youtube.com/embed/aV-G2gskT_c?si=BtFixoCCJWpGWuFZ",
+      "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby",
+      "description": "Russian singer, winner of the TV show 'New Star Factory' in 2017.",
+      "age": 33,
+      "items": [
+        {
+          "title": "1990-2010",
+          "cardTitle": "Early Years and Career Beginnings",
+          "url": "https://24smi.org/celebrity/26146-guzel-khasanova.html",
+          "cardSubtitle": "Guzel Khasanova likely came into the world for the first time during this period and began her journey in the music industry. Perhaps this was the time of shaping her distinctive musical style."
+        },
+        {
+          "title": "2011-2015",
+          "cardTitle": "After 'Star Factory' and the Beginning of a Solo Career",
+          "url": "https://24smi.org/celebrity/26146-guzel-khasanova.html",
+          "cardSubtitle": "Achieved remarkable success in music",
+          "cardDetailedText": "During these years, Guzel likely achieved remarkable success by presenting popular compositions or releasing successful albums. Perhaps she also attracted the audience's attention through participation in musical projects or competitions."
+        },
+        {
+          "title": "2016-2018",
+          "cardTitle": "Participation in 'Eurovision' and Subsequent Success",
+          "url": "https://24smi.org/celebrity/26146-guzel-khasanova.html",
+          "cardSubtitle": "Continued to delight her fans with new albums",
+          "cardDetailedText": "During these years, Guzel continued to delight her fans with new albums and singles, attracting the attention of a wide audience. Perhaps her talent also manifested itself in participating in television projects or on major concert stages."
+        },
+        {
+          "title": "2019-2020",
+          "cardTitle": "Personal Life and Professional Moments",
+          "url": "https://24smi.org/celebrity/26146-guzel-khasanova.html",
+          "cardSubtitle": "Changes in Guzel's personal life",
+          "cardDetailedText": "These years may be marked by changes in Guzel's personal life, if such moments were publicly available. Professionally, this could be a period of new creative challenges and achievements."
+        },
+        {
+          "title": "2021",
+          "cardTitle": "Start of a New Project",
+          "url": "https://24smi.org/celebrity/26146-guzel-khasanova.html",
+          "cardSubtitle": "Beginning of a new project",
+          "cardDetailedText": "During this period, possibly the beginning of a new project or a significant event in Guzel Khasanova's career."
+        },
+        {
+          "title": "2021-2022",
+          "cardTitle": "Continuation of Career and New Projects",
+          "url": "https://24smi.org/celebrity/26146-guzel-khasanova.html",
+          "cardSubtitle": "Continued to evolve as an artist",
+          "cardDetailedText": "In recent years, presumably, Guzel Khasanova continued to evolve as an artist, presenting new musical projects and possibly participating in events in the music industry."
+        }
+      ]
+    },
+    {
+      "name": "Anastasiya Prykhodko",
+      "id": 6,
+      "photo": "/star/images/prihodko_1.jpg",
+      "photoGallery": [
+        {
+          "photoGallery": "/star/images/prihodko_2.jpg"
+        },
+        {
+          "photoGallery": "/star/images/prihodko_3.jpg"
+        },
+        {
+          "photoGallery": "/star/images/prihodko_4.png"
+        }
+      ],
+      "youtube": "https://www.youtube.com/embed/Ef1c9SRdM3w?si=XiWsm3P5s9zK-YLu",
+      "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby",
+      "description": "Ukrainian singer, winner of the TV show 'Star Factory - 7' in 2007.",
+      "age": 36,
+      "items": [
+        {
+          "title": "1987-2005",
+          "cardTitle": "Early Years and Participation in 'Star Factory'",
+          "url": "https://en.wikipedia.org/wiki/Anastasiya_Prykhodko#Biography",
+          "cardSubtitle": "Anastasiya Prykhodko was born on April 21, 1987, in Kyiv",
+          "cardDetailedText": "Anastasiya Prykhodko was born in Kyiv on April 21, 1987. In her early years, a bright musical talent emerged, leading to her participation in the Ukrainian version of the TV show 'Star Factory' in 2005."
+        },
+        {
+          "title": "2006-2007",
+          "cardTitle": "After 'Star Factory' and the Start of a Solo Career",
+          "url": "https://en.wikipedia.org/wiki/Anastasiya_Prykhodko#Biography",
+          "cardSubtitle": "Finishing her participation in 'Star Factory'",
+          "cardDetailedText": "Finishing her participation in 'Star Factory' in second place, Anastasiya began to build her own music career. This period was a key step in her independent creative activity."
+        },
+        {
+          "title": "2008-2013",
+          "cardTitle": "Participation in 'Eurovision' and Subsequent Success",
+          "url": "https://en.wikipedia.org/wiki/Anastasiya_Prykhodko#Biography",
+          "cardSubtitle": "In 2008, Prykhodko represented Ukraine at 'Eurovision'",
+          "cardDetailedText": "In 2008, Prykhodko represented Ukraine at 'Eurovision' with the song 'Mamo,' ranking 17th. This event solidified her status as a national star, and in the following years, she actively released new albums and participated in musical projects."
+        },
+        {
+          "title": "2014-2016",
+          "cardTitle": "Personal Life and New Horizons",
+          "url": "https://en.wikipedia.org/wiki/Anastasiya_Prykhodko#Biography",
+          "cardSubtitle": "In 2017, Anastasiya got married",
+          "cardDetailedText": "In 2017, Anastasiya got married to Ukrainian singer Dmytro Shurov, and they had a daughter. This period may have been characterized by balancing between family life and creative activities."
+        },
+        {
+          "title": "2017-2019",
+          "cardTitle": "Return to Creativity and Family Life",
+          "url": "https://en.wikipedia.org/wiki/Anastasiya_Prykhodko#Biography",
+          "cardSubtitle": "Anastasiya's return to the music scene occurred",
+          "cardDetailedText": "Possibly during this period, Anastasiya returned to the music scene after a break related to family commitments. Family life and creativity merged into one."
+        },
+        {
+          "title": "2020-2022",
+          "cardTitle": "Continuation of Career and New Projects",
+          "url": "https://en.wikipedia.org/wiki/Anastasiya_Prykhodko#Biography",
+          "cardSubtitle": "Anastasiya's activity in the music sphere",
+          "cardDetailedText": "In recent years, Anastasiya's activity in the music sphere was noticeable, with the release of new projects and participation in concerts. This period likely marked the continuation of her creative path and possibly new achievements in her personal life."
+        }
+      ]
+    },
+    {
+      "name": "Dmitry Koldun",
+      "id": 5,
+      "photo": "/star/images/koldun_1.jpg",
+      "photoGallery": [
+        {
+          "photoGallery": "/star/images/koldun_2.jpg"
+        },
+        {
+          "photoGallery": "/star/images/koldun_3.jpg"
+        },
+        {
+          "photoGallery": "/star/images/koldun_4.png"
+        }
+      ],
+      "youtube": "https://www.youtube.com/embed/odSKz3Yb5z8?si=n_l8q8meoaGYGWW7",
+      "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby",
+      "description": "Belarusian singer, poet, and composer, winner of 'Star Factory - 6' in 2006.",
+      "age": 38,
+      "items": [
+        {
+          "title": "1985-2003",
+          "cardTitle": "Early Years",
+          "url": "https://en.wikipedia.org/wiki/Dmitry_Koldun#Biography",
+          "cardSubtitle": "Born on June 11, 1985, in Minsk, Belarus",
+          "cardDetailedText": "Born into the family of geography teacher Tatyana Borisovna Koldun and Alexander Pavlovich Koldun, Dmitry Koldun has an elder brother, Georgy Alexandrovich Koldun. In his childhood, he was passionate about music and played with his band called 'Tyazhely Kolesny Plug,' primarily performing compositions in Belarusian. He graduated from the Faculty of Chemistry at the Belarusian State University. In 2004, he participated in the project 'Narodny Artist-2' on the 'Russia' channel."
+        },
+        {
+          "title": "2004-2006",
+          "cardTitle": "Career Beginnings",
+          "url": "https://en.wikipedia.org/wiki/Dmitry_Koldun#Biography",
+          "cardSubtitle": "Won 'Star Factory 6'",
+          "cardDetailedText": "In 2004-2005, Dmitry worked in the State Concert Orchestra of the Republic of Belarus. He participated in the festivals 'Molodechno-2005' and 'Slavyansky Bazar' in Vitebsk. In 2006, he participated in the national Belarusian selection for Eurovision with the song 'May be.' In the same year, he became the winner of the project 'Star Factory 6' and subsequently became the soloist of the renewed lineup of the K. G. B. (Koldun, Gurkova, Barsukov) group but soon left the collective. After performing the song 'Still Loving You' with the Scorpions, he received an invitation from the lead vocalist Klaus Meine to perform this song as part of their joint tour."
+        },
+        {
+          "title": "2007-2009",
+          "cardTitle": "Rise to Popularity",
+          "url": "https://en.wikipedia.org/wiki/Dmitry_Koldun#Biography",
+          "cardSubtitle": "Participation in Eurovision",
+          "cardDetailedText": "Dmitry Koldun on 'Eurovision,' 2007. From December 2007 to March 2008, he participated in the project 'Dve Zvezdy' on 'Channel One' paired with Natalia Rudova. In 2008, he played the main character in the rock opera 'Zvezda i Smert Khokhakina Muryety.' In 2009, he participated in the project 'Zvezda Poshla na…' on the Muzyka TV channel."
+        },
+        {
+          "title": "2009-2012",
+          "cardTitle": "Concerts",
+          "url": "https://en.wikipedia.org/wiki/Dmitry_Koldun#Biography",
+          "cardSubtitle": "Active Participation in Concerts",
+          "cardDetailedText": "On February 9, 2009, Dmitry, along with Alexander Astashenok, opened the recording studio 'Yasheritsa.' On April 29, 2009, he held his first solo concert in Korolev. On November 20, 2010, he performed the final UNICEF anthem 'A Day Without War' with the children participants of the 'Junior Eurovision 2010.' In March 2012, the second studio album 'Nochnoy Pilot' was released. In June 2012, he participated in the musical project 'Factory of Stars. Russia-Ukraine.'"
+        },
+        {
+          "title": "2013-2017",
+          "cardTitle": "New Contests",
+          "url": "https://en.wikipedia.org/wiki/Dmitry_Koldun#Biography",
+          "cardSubtitle": "Active Participation in Contests",
+          "cardDetailedText": "On November 6, 2013, the presentation of the third studio album 'Gorod Bolshikh Ognay' took place. From March 2 to June 8, 2014, he participated in the show 'Toch-V-Toch' on 'Channel One,' reaching the final but not winning. In 2016, he participated in a new season of the show 'Toch-V-Toch' on 'Channel One.' In 2017, Dmitry Koldun performed with the song 'Pyatnitsa' at the opening of the XXVI Slavyansky Bazar Arts Festival in Vitebsk."
+        },
+        {
+          "title": "2018-2023",
+          "cardTitle": "Current Activities",
+          "url": "https://en.wikipedia.org/wiki/Dmitry_Koldun#Biography",
+          "cardSubtitle": "Continues to Perform",
+          "cardDetailedText": "In November 2018, he performed in the Donetsk People's Republic (DPR) during the elections for the head of the republic. Due to this, there were proposals to impose international sanctions against him. In 2021, he released the single 'Vsyo Snachala.' In 2022, he was revealed on the show 'Fantastika' on Channel One as an established artist, playing the character Phantom. He left the project in the 8th episode."
+        }
+      ]
+    },
+    {
+      "name": "Victoria Dayneko",
+      "id": 4,
+      "photo": "/star/images/daineko_1.jpg",
+      "photoGallery": [
+        {
+          "photoGallery": "/star/images/daineko_2.jpg"
+        },
+        {
+          "photoGallery": "/star/images/daineko_3.jpg"
+        },
+        {
+          "photoGallery": "/star/images/daineko_4.jpg"
+        }
+      ],
+      "youtube": "https://www.youtube.com/embed/fWaC8dmM_Ng?si=oOlhcMUH0fiPLAeI",
+      "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d45216.14646441634!2d78.18171417105783!3d44.90280963934956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x427f1b9ecbde295b%3A0xc203175f459dc131!2z0JHQsNC70L_Ri9C6LCDQmtCw0LfQsNGF0YHRgtCw0L0!5e0!3m2!1sru!2sby!4v1700936155632!5m2!1sru!2sby",
+      "description": "Russian singer, actress, winner of 'Star Factory - 5' in 2004.",
+      "age": 36,
+      "items": [
+        {
+          "title": "1987-1999",
+          "cardTitle": "Early Years",
+          "url": "https://en.wikipedia.org/wiki/Victoria_Daineko#Early_life",
+          "cardSubtitle": "Born on May 12, 1987, in Kazakhstan",
+          "cardDetailedText": "Born on May 12, 1987, in the settlement of Kirovsky, Taldy-Kurgan Region. She spent her childhood in Yakutia, in the city of Mirny. From an early age, she dreamed of becoming a pop singer. Her parents, Pyotr and Yevgeniya Daineko, both programmers, enrolled her in the ballet 'Almazy Yakutii' (Diamonds of Yakutia); Daineko studied dance until the age of 11. During her school years, she began performing at various musical venues in Mirny, mainly singing cover versions of other artists' hits. She achieved success, leading to an invitation first to the local pop group 'Otrazhenie' and then to the group 'Faeton.'"
+        },
+        {
+          "title": "2004-2005",
+          "cardTitle": "Career Beginnings",
+          "url": "https://en.wikipedia.org/wiki/Victoria_Daineko#Career",
+          "cardSubtitle": "Won 'Star Factory 5'",
+          "cardDetailedText": "In 2004, at the age of 17, she became a participant in the First Channel's TV project 'Star Factory 5,' led by singer Alla Pugacheva, where she won and received an apartment in Moscow. Within the project, Daineko performed two solo songs - 'Ya Budu Luchshe' ('I Will Be Better') and 'Leila.' A music video for the song 'Snilos Mne' ('I Dreamed') was produced, featuring Alexander Marshal. After the project, Daineko started serious collaboration with Igor Matvienko in 2005."
+        },
+        {
+          "title": "2005-2008",
+          "cardTitle": "Rise to Popularity",
+          "url": "https://en.wikipedia.org/wiki/Victoria_Daineko#Career",
+          "cardSubtitle": "Became the Best Performer",
+          "cardDetailedText": "In the fall of 2007, she was nominated for 'Best Female Performer' at the MTV Russia Music Awards. She also won the Fashion TV channel award for 'Fashion Singer of 2007.' In early 2007, she recorded the soundtrack for the movie 'Waiting for a Miracle' - 'Film Ne O Lyubvi.' Simultaneously with the filming of the movie, a music video for this song was shot. On March 6, 2008, the debut album 'Igolka' was released, which became a kind of 'hit collection' of the singer, as it was the first album after three years of work."
+        },
+        {
+          "title": "2009-2014",
+          "cardTitle": "Projects and Achievements",
+          "url": "https://en.wikipedia.org/wiki/Victoria_Daineko#Career",
+          "cardSubtitle": "Won 'Star Factory' Again",
+          "cardDetailedText": "In the spring of 2009, she participated in the First Channel project 'Two Stars 2009,' where, paired with actor Alexander Oleshko, she took 3rd place. At the end of 2010, she voiced the main character in the animated film 'Rapunzel: A Tangled Tale.' In 2011, she participated in the project 'Star Factory. Return,' where graduates of 'Star Factory' from different years competed. Daineko was part of the team of producer Igor Matvienko. She won the project, receiving 19% of the votes from the viewers who participated in the vote. On May 12, 2014, the premiere of the music video for the single 'Bey Sebya' ('Beat Yourself') took place. On November 14, 2014, the premiere of the second Russian and first English-language album titled 'V' took place."
+        },
+        {
+          "title": "2015-2019",
+          "cardTitle": "Honorary Awards",
+          "url": "https://en.wikipedia.org/wiki/Victoria_Daineko#Career",
+          "cardSubtitle": "Became Honored Artist in 2015",
+          "cardDetailedText": "In May 2015, she was awarded the title of 'Honored Artist of Karachay-Cherkessia.' In November 2015, the song 'Eti Nochi' ('These Nights') was released, and in January 2016, a music video for this composition was shot. In November 2016, the animated film 'Trolls' was released, in which Daineko voiced one of the characters. On February 1, 2019, the new album 'Magnitnye' ('Magnetic') was released."
+        },
+        {
+          "title": "2022-2023",
+          "cardTitle": "Current Activities",
+          "url": "https://en.wikipedia.org/wiki/Victoria_Daineko#Career",
+          "cardSubtitle": "New Song and Projects",
+          "cardDetailedText": "In the fall of 2022, she participated in the recording of the politically ideologized song and music video 'Vstanem' ('We Will Stand'). In 2023, she became a participant in the seventh season of the show 'Three Chords' on Channel One. In 2023, she participated in the 4th season of the show 'Mask' on NTV, portraying the character of the Phoenix. In the sixth episode, aired on March 19, 2023, the mask of the Phoenix was revealed."
+        }
+      ]
+    },
+    {
+      "name": "Irina Dubtsova",
+      "id": 3,
+      "photo": "/star/images/dubtsova_1.jpg",
+      "photoGallery": [
+        {
+          "photoGallery": "/star/images/dubtsova_2.jpg"
+        },
+        {
+          "photoGallery": "/star/images/dubtsova_3.jpg"
+        },
+        {
+          "photoGallery": "/star/images/dubtsova_4.jpg"
+        }
+      ],
+      "youtube": "https://www.youtube.com/embed/q2tGQwTl4vk?si=8ysyTtmm0sRF6-XP",
+      "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d150505.31375908336!2d27.428561540984575!3d53.88472951350763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dbcfd35b1e6ad3%3A0xb61b853ddb570d9!2z0JzQuNC90YHQug!5e0!3m2!1sru!2sby!4v1700958084478!5m2!1sru!2sby",
+      "description": "Russian singer, actress, winner of 'Star Factory - 4' in 2004.",
+      "age": 41,
+      "items": [
+        {
+          "title": "1982—2004",
+          "cardTitle": "Early Years",
+          "url": "https://en.wikipedia.org/wiki/Irina_Dubtsova#Biography",
+          "cardSubtitle": "Born in the winter of 1982",
+          "cardDetailedText": "Born on February 14, 1982, in Volgograd. She graduated from a music school. When she was 11 years old, her parents created a children's musical group called 'Dzhem' (Jam), and Irina Dubtsova became a part of it. The group became quite popular in Volgograd. In 1999, through her father's friend Andrey Pryazhnikov, a disc with the song 'Hijo De La Luna' performed by Dubtsova reached the famous producer Igor Matvienko, who was forming a new group. The group was named 'Devochki' (Girls)."
+        },
+        {
+          "title": "2004—2007",
+          "cardTitle": "Star Factory",
+          "url": "https://en.wikipedia.org/wiki/Irina_Dubtsova#Biography",
+          "cardSubtitle": "On March 12, 2004, 'Star Factory 4' started on Channel One, and Irina Dubtsova took part in it.",
+          "cardDetailedText": "On March 12, 2004, 'Star Factory 4' started on Channel One, and Irina Dubtsova took part in it. She distinguished herself with duets with such performers as 'Mumiy Troll,' Igor Nikolaev, 'BI-2,' Alexander Ivanov, 'Ivanushki International,' Alexander Rozenbaum, Vladimir Presnyakov Jr., and also performed her own composition 'O Nyom' ('About Him'). On June 8, the final gala concert of 'Star Factory 4' took place at the 'Olimpiyskiy' Sports Complex, where the winners of the project were announced, and Dubtsova took first place."
+        },
+        {
+          "title": "2008—2011",
+          "cardTitle": "Musical Career",
+          "url": "https://en.wikipedia.org/wiki/Irina_Dubtsova#Biography",
+          "cardSubtitle": "In 2008, Irina Dubtsova recorded the song 'Komu? Zachem?' ('To Whom? Why?') with Polina Gagarina.",
+          "cardDetailedText": "In 2008, Irina Dubtsova recorded the song 'Komu? Zachem?' ('To Whom? Why?') with Polina Gagarina, and a music video was produced. The song became the winner of the 'Muz-TV Award 2010' in the category 'Duet of the Year.' In 2010, Dubtsova, Zhanna Friske, Alsou, Tatyana Bulanova, and Lera Kudryavtseva recorded the lullaby 'Spi, Moyo Solnyshko' ('Sleep, My Sunshine') in support of a charity project."
+        },
+        {
+          "title": "2012—2014",
+          "cardTitle": "Continuation of the Career",
+          "url": "https://en.wikipedia.org/wiki/Irina_Dubtsova#Biography",
+          "cardSubtitle": "In the spring of 2012, Dubtsova recorded the song 'Esh. Molis. Lyubi' ('Eat. Pray. Love'), the lyrics and music of which she wrote herself.",
+          "cardDetailedText": "In the spring of 2012, Dubtsova recorded the song 'Esh. Molis. Lyubi' ('Eat. Pray. Love'), the lyrics and music of which she wrote herself. In May, a music video was released, shot in Kyiv, directed by Alexander Filatovich. In the fall of 2012, the third season of the Ukrainian version of the British talent show 'X-Factor' opened on the Ukrainian channel STB, where Irina Dubtsova took the place of Yolka in the jury."
+        },
+        {
+          "title": "2015—2023",
+          "cardTitle": "First Solo Concert",
+          "url": "https://en.wikipedia.org/wiki/Irina_Dubtsova#Biography",
+          "cardSubtitle": "In early 2015, preparation for the first solo concert at 'Crocus City Hall' took place.",
+          "cardDetailedText": "In early 2015, preparation for the first solo concert at 'Crocus City Hall' took place, dedicated to the release of a new album and the 10th anniversary of her solo career. The concert took place on March 28. On January 25, Dubtsova presented a solo song 'Lyubi Menya Dolgo' ('Love Me Long') on the 'Partiynaya Zona' program on the Muzyka TV channel. On February 3, the premiere of the music video for this song took place on the Ello channel on YouTube. In February 2016, Irina Dubtsova started shooting the new season of the show 'Toch-V-Toch. Bitva Sezonov' ('Point by Point. Battle of the Seasons'), the premiere of which took place on September 18 on Channel One. On March 23, Dubtsova presented a new concert program 'Lyubi Menya Dolgo' ('Love Me Long') at a solo sold-out concert at 'Crocus City Hall.'"
+        }
+      ]
+    },
+    {
+      "name": "Nikita Malinin",
+      "id": 2,
+      "photo": "/star/images/malinin_1.jpg",
+      "photoGallery": [
+        { "photoGallery": "/star/images/malinin_2.jpg" },
+        { "photoGallery": "/star/images/malinin_3.jpg" },
+        { "photoGallery": "/star/images/malinin_4.jfif" }
+      ],
+      "youtube": "https://www.youtube.com/embed/pccstB1S3mk?si=j6_t17vSM_gMkwET",
+      "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d162757.8367562134!2d30.367885864616973!3d50.4021379356011!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40d4cf4ee15a4505%3A0x764931d2170146fe!2z0JrQuNC10LIsINCj0LrRgNCw0LjQvdCwLCAwMjAwMA!5e0!3m2!1sru!2sby!4v1700916337252!5m2!1sru!2sby",
+      "description": "Russian singer, actor, and producer, winner of 'Star Factory - 3' in 2003.",
+      "age": 35,
+      "items": [
+        {
+          "title": "1981—2003",
+          "cardTitle": "Childhood, Youth, Family",
+          "url": "https://en.24smi.org/celebrity/4371-nikita-malinin.html",
+          "cardSubtitle": "Born in the fall of 1981",
+          "cardDetailedText": "Nikita was born in the fall of 1981 into the family of singer Alexander Malinin (Vyguzova) and violinist Inna Kurochkina. His parents met in the vocal and instrumental ensemble 'Poyushchie Gitary' ('Singing Guitars')."
+        },
+        {
+          "title": "2003",
+          "cardTitle": "Star Factory",
+          "url": "https://en.24smi.org/celebrity/4371-nikita-malinin.html",
+          "cardSubtitle": "In 2003, he joined the television project 'Star Factory-2'.",
+          "cardDetailedText": "Wide recognition came to the artist in 2003 when he became a participant in the third season of 'Star Factory.' He made the decision to try his hand at the vocal competition independently, not even informing his relatives about it. Only after successfully passing the casting, he revealed that he became a participant in the 'Star Factory.'"
+        },
+        {
+          "title": "2004—2007",
+          "cardTitle": "Start of the Music Career",
+          "url": "https://en.24smi.org/celebrity/4371-nikita-malinin.html",
+          "cardSubtitle": "Album 'Vspyshka v Nochi' ('Flash in the Night')",
+          "cardDetailedText": "For the general public, Nikita Malinin is still associated with the hit 'Kotyonok' ('Kitten'), as even the title track from his debut album 'Vspyshka v Nochi' ('Flash in the Night') (2004) could not repeat the success of the song born on the 'Star Factory.' The debut album became the only one. In 2005, Nikita represented Russia at the World Best international competition, and then he took a break to figure out in which direction to move forward."
+        },
+        {
+          "title": "2007—2015",
+          "cardTitle": "Change of Direction",
+          "url": "https://en.24smi.org/celebrity/4371-nikita-malinin.html",
+          "cardSubtitle": "Artist started writing club music",
+          "cardDetailedText": "The image of a romantic 'kitten' no longer satisfied him. The artist started writing club music and collaborated with Boris Moiseev, Dominik Joker, Victoria Dayneko, and singer Slava. In Europe, in 2007, a joint album by Nikita and DJ Nejtrino was released. He also recorded several songs with DJ Misha Klein."
+        },
+        {
+          "title": "2015—2023",
+          "cardTitle": "'One to One' Show",
+          "url": "https://en.24smi.org/celebrity/4371-nikita-malinin.html",
+          "cardSubtitle": "In 2015, the musician appeared on the popular show 'One to One!'",
+          "cardDetailedText": "In 2015, the musician appeared on the popular show 'One to One!' and even embodied the image of the elder Malinin, singing one of his romances. The winner of the show was Ruslan Alekhno, but Nikita also showed a high ability to transform into other artists."
+        }
+      ]
+    },
+    {
+      "name": "Polina Gagarina",
+      "id": 1,
+      "photo": "/star/images/gagarina_1.jpg",
+      "photoGallery": [
+        { "photoGallery": "/star/images/gagarina_2.jpg" },
+        { "photoGallery": "/star/images/gagarina_3.jpg" },
+        { "photoGallery": "/star/images/gagarina_4.jpg" }
+      ],
+      "youtube": "https://www.youtube.com/embed/atFJT7VOa44?si=ZOnaxoeCmG94lp1Y",
+      "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d74467.67069658496!2d48.31439335054747!3d54.31960342792589!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x415d36fd6ed9b0d7%3A0x31fc5f9295ebff72!2z0KPQm9Cs0K_QndCe0JLQodCaLTEg0KHRgtCw0L3RhtC40Y8!5e0!3m2!1sru!2sde!4v1700917692837!5m2!1sru!2sde",
+      "description": "Russian pop singer, winner of 'Star Factory - 2' in 2002.",
+      "age": 36,
+      "items": [
+        {
+          "title": "1987—2002",
+          "cardTitle": "Childhood and Youth",
+          "url": "https://en.wikipedia.org/wiki/Polina_Gagarina#1987–2002:_childhood_and_youth",
+          "cardSubtitle": "Born on March 27, 1987",
+          "cardDetailedText": "Born on March 27, 1987, in Moscow, Polina Gagarina spent her childhood in Greece. In one of the episodes of the show 'The Voice,' she confessed to having Mordovian roots. Her mother, a professional dancer, signed a contract with a Greek producer in 1991 to work as a ballet artist at 'Alsos' in Athens. Polina lived there for three years and went to first grade in September 1993. Upon returning to Russia for summer vacation, at the insistence of her grandmother, she stayed in Saratov with her. She enrolled in a music school, performing Whitney Houston's song in the qualifying round."
+        },
+        {
+          "title": "2003",
+          "cardTitle": "Star Factory",
+          "url": "https://en.wikipedia.org/wiki/Polina_Gagarina#2003:_Star_Factory",
+          "cardSubtitle": "In 2003, at the age of 16, Gagarina joined the television project 'Star Factory-2'.",
+          "cardDetailedText": "In 2003, at the age of 16, Gagarina joined the television project 'Star Factory-2.' She performed several songs by Maxim Fadeev and won the competition. Many professionals later recognized Gagarina as the strongest singer among all the winners of the show. However, after the project, Gagarina refused to collaborate with Fadeev."
+        },
+        {
+          "title": "2004—2007",
+          "cardTitle": "Career Beginnings and Album 'Poprosi u Oblakov' ('Ask the Clouds')",
+          "url": "https://en.wikipedia.org/wiki/Polina_Gagarina#2004–2007:_career_beginnings_and_Poprosi_u_Oblakov",
+          "cardSubtitle": "In 2005, Gagarina signed a contract with the label ARS Records.",
+          "cardDetailedText": "In 2005, Gagarina signed a contract with the label ARS Records. In the same year, she participated in the international competition 'New Wave,' where she took third place with her original song 'Kolybelnaya' ('Lullaby'). On July 11 in Moscow, the video for this song was filmed, directed and shot by Vladislav Opelyants."
+        },
+        {
+          "title": "2008—2010",
+          "cardTitle": "Album 'O Sebe' ('About Myself')",
+          "url": "https://en.wikipedia.org/wiki/Polina_Gagarina#2008–2010:_O_Sebe_and_first_child",
+          "cardSubtitle": "In 2008, Gagarina recorded the song 'Komu, Zachem?' ('To Whom, Why?')",
+          "cardDetailedText": "On March 11, 2010, the second solo album 'O Sebe' ('About Myself') was released. It included a duet with Dubtsova 'Komu, Zachem?' ('To Whom, Why?'), 'Lyubov' Pod Solntsem' ('Love Under the Sun'), and 'Gde-to Zhiviot Lyubov' ('Love Lives Somewhere'). Gagarina characterized the album as follows: 'A new album. A new stage in life, both creative and personal.'"
+        },
+        {
+          "title": "2011—2015",
+          "cardTitle": "Success, Third Studio Album, and 'Eurovision'",
+          "url": "https://en.wikipedia.org/wiki/Polina_Gagarina#2011–2015:_success,_third_studio_album_and_Eurovision",
+          "cardSubtitle": "In August 2011, Gagarina received the 'Golden Gramophone'.",
+          "cardDetailedText": "In January 2012, a new single 'Spektakl' Okonchen' ('The Show Is Over') was released, and at the end of January, the music video was released. In the spring, the Ukrainian TV series 'Katina Lyubov' ('Katya's Love') started on Ukrainian television, for which Gagarina's song 'Vernis' Lyubov' ('Return, Love') became the soundtrack. In June, the project 'Star Factory' resumed on Channel One (Russia) under the slogan 'Russia vs Ukraine.' Popular participants from Russia and Ukraine had to show in singing duels whose team was better. Gagarina won three out of four duels, contributing to the victory of the Russian team. Also, in the summer, Gagarina became the ambassador of the XXVII World Summer Universiade 2013 in Kazan."
+        }
+      ]
+    }
+  ]
+}

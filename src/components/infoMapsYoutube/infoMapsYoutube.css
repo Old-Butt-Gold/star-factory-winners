@@ -1,7 +1,7 @@
 .container-info {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: space-around;
     gap: 40px;
     margin-bottom: 20px;
 }
@@ -9,7 +9,7 @@
 .container-info .component {
     flex: 1;
     min-width: 300px;
-    max-width: 600px;
+    max-width: 700px;
 }
 
 .container-info .component h4 {
@@ -19,19 +19,19 @@
 
 .component iframe {
     width: 100%;
+    height: 400px;
 }
 
-@media (max-width: 700px) {
-    .container-info {
-        flex-direction: column;
-        align-items: center;
-    }
-
+@media (max-width: 800px) {
     .container-info .component {
-        min-width: 600px;
+        flex: 1;
+        min-width: 100%;
+        max-width: none;
     }
+}
 
-    .component {
-        max-width: 100%;
+@media (max-width: 600px) {
+    .container-info .component {
+        min-width: 100%;
     }
 }

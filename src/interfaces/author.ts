@@ -4,8 +4,3 @@ export interface IAuthor {
     githubUrl: string;
     githubPhoto: string;
 }
-
-export interface IName {
-    name: string;
-    age: string;
-}
