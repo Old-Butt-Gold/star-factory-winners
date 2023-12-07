@@ -19,25 +19,25 @@
   "people": [
     {
         "name": "Крутько Андрей",
-        "photoUrl": "/images/andrey.jpg",
+        "photoUrl": "/star-factory-winners/images/andrey.jpg",
         "githubUrl": "https://github.com/Old-Butt-Gold",
         "githubPhoto": "https://avatars.githubusercontent.com/u/118840620?v=4"
     },
     {
       "name": "Заяц Александра",
-      "photoUrl": "/images/asya.jfif",
+      "photoUrl": "/star-factory-winners/images/asya.jfif",
       "githubUrl": "https://github.com/AleksMind",
       "githubPhoto": "https://avatars.githubusercontent.com/u/126493685?v=4"
     },
     {
       "name": "Кумичова Дарья",
-      "photoUrl": "/images/dasha.jfif",
+      "photoUrl": "/star-factory-winners/images/dasha.jfif",
       "githubUrl": "https://github.com/Clown-is-me",
       "githubPhoto": "https://avatars.githubusercontent.com/u/63212757?v=4"
     },
     {
       "name": "Кирлица Дарья",
-      "photoUrl": "/images/dysya.jfif",
+      "photoUrl": "/star-factory-winners/images/dysya.jfif",
       "githubUrl": "https://github.com/luna34Sans",
       "githubPhoto": "https://avatars.githubusercontent.com/u/126656359?v=4"
     }
@@ -46,16 +46,16 @@
     {
       "name": "Гузель Хасанова",
       "id": 7,
-      "photo": "/images/hasanova_1.jpg",
+      "photo": "/star-factory-winners/images/hasanova_1.jpg",
       "photoGallery": [
         {
-          "photoGallery": "/images/hasanova_2.jpg"
+          "photoGallery": "/star-factory-winners/images/hasanova_2.jpg"
         },
         {
-          "photoGallery": "/images/hasanova_3.jpg"
+          "photoGallery": "/star-factory-winners/images/hasanova_3.jpg"
         },
         {
-          "photoGallery": "/images/hasanova_4.jpg"
+          "photoGallery": "/star-factory-winners/images/hasanova_4.jpg"
         }
       ],
       "youtube": "https://www.youtube.com/embed/aV-G2gskT_c?si=BtFixoCCJWpGWuFZ",
@@ -110,16 +110,16 @@
     {
       "name": "Анастасия Приходько",
       "id": 6,
-      "photo": "/images/prihodko_1.jpg",
+      "photo": "/star-factory-winners/images/prihodko_1.jpg",
       "photoGallery": [
         {
-          "photoGallery": "/images/prihodko_2.jpg"
+          "photoGallery": "/star-factory-winners/images/prihodko_2.jpg"
         },
         {
-          "photoGallery": "/images/prihodko_3.jpg"
+          "photoGallery": "/star-factory-winners/images/prihodko_3.jpg"
         },
         {
-          "photoGallery": "/images/prihodko_4.png"
+          "photoGallery": "/star-factory-winners/images/prihodko_4.png"
         }
       ],
       "youtube": "https://www.youtube.com/embed/Ef1c9SRdM3w?si=XiWsm3P5s9zK-YLu",
@@ -174,16 +174,16 @@
     {
       "name": "Дмитрий Колдун",
       "id": 5,
-      "photo": "/images/koldun_1.jpg",
+      "photo": "/star-factory-winners/images/koldun_1.jpg",
       "photoGallery": [
         {
-          "photoGallery": "/images/koldun_2.jpg"
+          "photoGallery": "/star-factory-winners/images/koldun_2.jpg"
         },
         {
-          "photoGallery": "/images/koldun_3.jpg"
+          "photoGallery": "/star-factory-winners/images/koldun_3.jpg"
         },
         {
-          "photoGallery": "/images/koldun_4.png"
+          "photoGallery": "/star-factory-winners/images/koldun_4.png"
         }
       ],
       "youtube": "https://www.youtube.com/embed/odSKz3Yb5z8?si=n_l8q8meoaGYGWW7",
@@ -238,16 +238,16 @@
     {
       "name": "Виктория Дайнеко",
       "id": 4,
-      "photo": "/images/daineko_1.jpg",
+      "photo": "/star-factory-winners/images/daineko_1.jpg",
       "photoGallery": [
         {
-          "photoGallery": "/images/daineko_2.jpg"
+          "photoGallery": "/star-factory-winners/images/daineko_2.jpg"
         },
         {
-          "photoGallery": "/images/daineko_3.jpg"
+          "photoGallery": "/star-factory-winners/images/daineko_3.jpg"
         },
         {
-          "photoGallery": "/images/daineko_4.jpg"
+          "photoGallery": "/star-factory-winners/images/daineko_4.jpg"
         }
       ],
       "youtube": "https://www.youtube.com/embed/fWaC8dmM_Ng?si=oOlhcMUH0fiPLAeI",
@@ -302,16 +302,16 @@
     {
       "name": "Ирина Дубцова",
       "id": 3,
-      "photo": "/images/dubtsova_1.jpg",
+      "photo": "/star-factory-winners/images/dubtsova_1.jpg",
       "photoGallery": [
         {
-          "photoGallery": "/images/dubtsova_2.jpg"
+          "photoGallery": "/star-factory-winners/images/dubtsova_2.jpg"
         },
         {
-          "photoGallery": "/images/dubtsova_3.jpg"
+          "photoGallery": "/star-factory-winners/images/dubtsova_3.jpg"
         },
         {
-          "photoGallery": "/images/dubtsova_4.jpg"
+          "photoGallery": "/star-factory-winners/images/dubtsova_4.jpg"
         }
       ],
       "youtube": "https://www.youtube.com/embed/q2tGQwTl4vk?si=8ysyTtmm0sRF6-XP",
@@ -359,11 +359,11 @@
     {
       "name": "Никита Малинин",
       "id": 2,
-      "photo": "/images/malinin_1.jpg",
+      "photo": "/star-factory-winners/images/malinin_1.jpg",
       "photoGallery": [
-        { "photoGallery": "/images/malinin_2.jpg" },
-        { "photoGallery": "/images/malinin_3.jpg" },
-        { "photoGallery": "/images/malinin_4.jfif" }
+        { "photoGallery": "/star-factory-winners/images/malinin_2.jpg" },
+        { "photoGallery": "/star-factory-winners/images/malinin_3.jpg" },
+        { "photoGallery": "/star-factory-winners/images/malinin_4.jfif" }
       ],
       "youtube": "https://www.youtube.com/embed/pccstB1S3mk?si=j6_t17vSM_gMkwET",
       "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d162757.8367562134!2d30.367885864616973!3d50.4021379356011!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40d4cf4ee15a4505%3A0x764931d2170146fe!2z0JrQuNC10LIsINCj0LrRgNCw0LjQvdCwLCAwMjAwMA!5e0!3m2!1sru!2sby!4v1700916337252!5m2!1sru!2sby",
@@ -410,11 +410,11 @@
     {
       "name": "Полина Гагарина",
       "id": 1,
-      "photo": "/images/gagarina_1.jpg",
+      "photo": "/star-factory-winners/images/gagarina_1.jpg",
       "photoGallery": [
-        { "photoGallery": "/images/gagarina_2.jpg" },
-        { "photoGallery": "/images/gagarina_3.jpg" },
-        { "photoGallery": "/images/gagarina_4.jpg" }
+        { "photoGallery": "/star-factory-winners/images/gagarina_2.jpg" },
+        { "photoGallery": "/star-factory-winners/images/gagarina_3.jpg" },
+        { "photoGallery": "/star-factory-winners/images/gagarina_4.jpg" }
       ],
       "youtube": "https://www.youtube.com/embed/atFJT7VOa44?si=ZOnaxoeCmG94lp1Y",
       "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d74467.67069658496!2d48.31439335054747!3d54.31960342792589!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x415d36fd6ed9b0d7%3A0x31fc5f9295ebff72!2z0KPQm9Cs0K_QndCe0JLQodCaLTEg0KHRgtCw0L3RhtC40Y8!5e0!3m2!1sru!2sde!4v1700917692837!5m2!1sru!2sde",

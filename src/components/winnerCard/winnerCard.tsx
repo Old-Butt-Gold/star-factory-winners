@@ -8,7 +8,7 @@ export default function WinnerCard({name, id, description, photo, age} : IWinner
     const navigate = useNavigate();
     const {t} = useTranslation();
     const handleCardClick = () => {
-        navigate(`/winners/${id}`);
+        navigate(`/star-factory-winners/winners/${id}`);
         window.scrollTo(0, 0);
     };
 
