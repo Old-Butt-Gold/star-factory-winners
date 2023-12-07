@@ -20,7 +20,7 @@
 .photo-cards-container img {
     height: 29vw;
     width: 100%;
-    margin: 20px;
+    margin: 2vw;
     transition: transform 0.5s ease-in-out;
 }
 
