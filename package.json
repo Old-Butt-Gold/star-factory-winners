@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Old-Butt-Gold.github.io/star-factory-winners",
+  "homepage": "https://Old-Butt-Gold.github.io/star-factory-winners/",
   "name": "star",
   "private": true,
   "version": "0.0.0",
@@ -8,7 +8,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
