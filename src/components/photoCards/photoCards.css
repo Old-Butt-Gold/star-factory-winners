@@ -24,3 +24,15 @@
     transition: transform 0.5s ease-in-out;
 }
 
+@media (max-width: 1068px) {
+    .photo-cards-container img {
+        height: 40vw;
+    }
+}
+
+@media (max-width: 768px) {
+    .photo-cards-container img {
+        height: 40vw;
+    }
+}
+
