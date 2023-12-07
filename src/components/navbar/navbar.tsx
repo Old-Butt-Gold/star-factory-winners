@@ -14,7 +14,7 @@ export default function Navbar() {
     return (
         <nav>
             <div className="main">
-                <Link to={"star/"} className={"title"}>
+                <Link to={"/star-factory-winners/"} className={"title"}>
                     {t('main.title')}
                 </Link>
                 <div onClick={toggleLanguage} className={"title"}>
@@ -29,17 +29,17 @@ export default function Navbar() {
             </div>
             <ul className={menuOpen ? "open" : ""}>
                 <li>
-                    <NavLink to={"star/about"}>
+                    <NavLink to={"/star-factory-winners/about"}>
                         {t('main.about')}
                     </NavLink>
                 </li>
                 <li>
-                    <NavLink to={"star/winners"}>
+                    <NavLink to={"/star-factory-winners/winners"}>
                         {t('main.winners')}
                     </NavLink>
                 </li>
                 <li>
-                    <NavLink to={"star/contacts"}>
+                    <NavLink to={"/star-factory-winners/contacts"}>
                         {t('main.contacts')}
                     </NavLink>
                 </li>
