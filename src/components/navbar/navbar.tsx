@@ -14,7 +14,7 @@ export default function Navbar() {
     return (
         <nav>
             <div className="main">
-                <Link to={"/star-factory-winners"} className={"title"}>
+                <Link to={"/star-factory-winners/"} className={"title"}>
                     {t('main.title')}
                 </Link>
                 <div onClick={toggleLanguage} className={"title"}>
