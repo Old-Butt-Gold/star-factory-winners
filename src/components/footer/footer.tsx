@@ -1,6 +1,8 @@
 import './footer.css';
+import {useTranslation} from "react-i18next";
 
 export default function Footer() {
+    const {t} = useTranslation();
     const handleScrollToTop = () => {
         window.scrollTo({ top: 0 });
     };
@@ -8,7 +10,7 @@ export default function Footer() {
     return (
         <div className="FooterContainer">
             <div className="FooterContent">
-                <p>&copy; 2023 БГУИР. Все права защищены.</p>
+                <p>&copy; {t('footer')}</p>
                 <div className="SocialIcons">
                     <a href="https://web.telegram.org/" target="_blank" rel="noopener noreferrer">
                         <i className="fab fa-telegram"></i>

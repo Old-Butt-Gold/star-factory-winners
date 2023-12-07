@@ -4,14 +4,17 @@ import WinnerCard from "../winnerCard/winnerCard.tsx";
 import {useState} from "react";
 import {Card, InputAdornment, TextField } from '@mui/material';
 import {FaSearch} from "react-icons/fa";
-import {winners} from "../../interfaces/winnerData.ts";
+import {useTranslation} from "react-i18next";
 
 export default function Winners() {
+    const {t} = useTranslation();
     const [searchTerm, setSearchTerm] = useState<string>('');
 
     const handleSearch = (event: React.ChangeEvent<HTMLInputElement>) => {
         setSearchTerm(event.target.value);
     };
+
+    const winners : IWinnerData[] = t('winners', {returnObjects: true});
 
     const filteredWinners = winners.filter(
         (winner: IWinnerData) =>
@@ -22,7 +25,7 @@ export default function Winners() {
     return (
         <>
             <div className="search-wrapper">
-                <TextField className="search-input" variant="filled" label="Поиск..." value={searchTerm} onChange={handleSearch}
+                <TextField className="search-input" variant="filled" label={t('search-input')} value={searchTerm} onChange={handleSearch}
                     InputProps={{
                         startAdornment: (
                             <InputAdornment position="start">

@@ -18,9 +18,9 @@
 }
 
 .photo-cards-container img {
-    height: 425px;
+    height: 29vw;
     width: 100%;
-    margin-bottom: 20px;
+    margin: 20px;
     transition: transform 0.5s ease-in-out;
 }
 

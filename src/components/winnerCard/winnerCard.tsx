@@ -2,9 +2,11 @@ import { useNavigate } from 'react-router-dom';
 import { IWinnerData } from '../../interfaces/winnerData.ts';
 import './winnerCard.css';
 import { CardActionArea, CardContent, CardMedia, Typography } from '@mui/material';
+import {useTranslation} from "react-i18next";
 
 export default function WinnerCard({name, id, description, photo, age} : IWinnerData) {
     const navigate = useNavigate();
+    const {t} = useTranslation();
     const handleCardClick = () => {
         navigate(`/star/winners/${id}`);
         window.scrollTo(0, 0);
@@ -19,7 +21,7 @@ export default function WinnerCard({name, id, description, photo, age} : IWinner
                         {name}
                     </Typography>
                     <Typography gutterBottom variant="h6" component="div" color="primary">
-                        Возраст: {age}
+                        {t('age-info')}{age}
                     </Typography>
                     <Typography className="subtitle" variant="body1" color="text.secondary">
                         {description}
@@ -27,7 +29,7 @@ export default function WinnerCard({name, id, description, photo, age} : IWinner
                 </CardContent>
             </CardActionArea>
             <div className="container">
-                <a onClick={handleCardClick} className="btn">Подробнее</a>
+                <a onClick={handleCardClick} className="btn">{t('more-info')}</a>
             </div>
         </>
     );

@@ -9,19 +9,19 @@ import Footer from './components/footer/footer.tsx';
 import WinnerPage from './pages/WinnerPage/WinnerPage.tsx';
 
 export default function App() {
-  return (
-      <BrowserRouter>
-          <>
-              <Header/>
-              <Routes>
-                  <Route path="star/" element={<Main />} />
-                  <Route path="star/about" element={<About />} />
-                  <Route path="star/winners" element={<Winner />} />
-                  <Route path="star/winners/:id" element={<WinnerPage />} />
-                  <Route path="star/contacts" element={<Contacts />} />
-              </Routes>
-              <Footer />
-          </>
-      </BrowserRouter>
+    return (
+        <BrowserRouter>
+            <Header/>
+            <main>
+                <Routes>
+                    <Route path="star/" element={<Main />} />
+                    <Route path="star/about" element={<About />} />
+                    <Route path="star/winners" element={<Winner />} />
+                    <Route path="star/winners/:id" element={<WinnerPage />} />
+                    <Route path="star/contacts" element={<Contacts />} />
+                </Routes>
+            </main>
+            <Footer />
+        </BrowserRouter>
     )
 }

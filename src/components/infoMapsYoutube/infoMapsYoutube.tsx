@@ -1,8 +1,10 @@
 import './infoMapsYoutube.css'
 import {IWinnerData} from "../../interfaces/winnerData.ts";
 import {Typography} from "@mui/material";
+import {useTranslation} from "react-i18next";
 
 export default function InfoMapsYoutube({youtube, maps} : IWinnerData) {
+    const {t} = useTranslation();
     return (
         <div className="container-info">
             <div className="component">
@@ -17,12 +19,12 @@ export default function InfoMapsYoutube({youtube, maps} : IWinnerData) {
                 </iframe>
             </div>
             <div className="component">
-                <Typography variant="h4" color="primary">Maps</Typography>
+                <Typography variant="h4" color="primary">{t('maps')}</Typography>
                 <iframe
                     width="100%"
                     height="315"
                     src={maps}
-                    title="Google Maps"
+                    title={t('maps')}
                     allowFullScreen
                 ></iframe>
             </div>

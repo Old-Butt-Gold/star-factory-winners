@@ -3,14 +3,19 @@ html {
     scroll-behavior: smooth;
 }
 
-/*body {
-    margin: 0;
-    padding: 0;
+/*!!!!!!!!!!!!!!!!*/
+
+#root {
+    min-height: 100%;
     display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-}*/
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
+}
+
+/*!!!!!!!!!!Для футера*/
 
 *, *:before, *:after {
     box-sizing: inherit;

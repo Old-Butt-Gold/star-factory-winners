@@ -1,5 +1,5 @@
 .intro {
-    background: url('images/intro.jpg') center no-repeat;
+    background: url('/star/images/intro.jpg') center no-repeat;
     position: relative;
     background-size: cover;
     height: 100vh;
@@ -27,7 +27,7 @@
 }
 
 .intro_welcome {
-    font-size: 80px;
+    font-size: 4rem;
     font-weight: bold;
 }
 
