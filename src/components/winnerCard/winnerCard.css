@@ -3,7 +3,7 @@
 }
 
 .winnerClass .title {
-    font-size: 2.5vw;
+    font-size: 3vw;
 }
 
 .winnerClass .subtitle {
@@ -53,4 +53,10 @@
 .winnerClass .container .btn:hover::after {
     top: 5px;
     left: 15px;
+}
+
+@media (max-width: 768px) {
+    .winnerClass .title {
+        font-size: 3vh;
+    }
 }

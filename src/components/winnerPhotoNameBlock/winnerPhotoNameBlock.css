@@ -13,15 +13,15 @@
 
 .winner-photo-name-block img {
     margin: 4px;
-    height: 21.3rem;
+    height: auto;
 }
 
 @media (max-width: 800px) {
     .winner-photo-name-block {
-        width: 90%;
+        width: 95%;
     }
 
     .winner-photo-name-block img {
-        height: 24rem;
+        height: auto;
     }
 }
