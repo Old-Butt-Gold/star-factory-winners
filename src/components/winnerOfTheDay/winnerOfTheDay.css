@@ -29,3 +29,9 @@
     text-align: center;
     justify-content: center;
 }
+
+@media (max-width: 768px) {
+    .dayWinnerTitle {
+        font-size: 3vh;
+    }
+}
